@@ -1,0 +1,25 @@
+---
+
+**Read Me File:**
+
+**Pac-Man WebGL Game**
+
+**Description:**
+The Pac-Man WebGL game is a browser-based implementation of the classic Pac-Man arcade game using WebGL for rendering.
+
+**Instructions:**
+1. Open the `index.html` file in a WebGL-supported browser.
+2. Use the arrow keys to control Pac-Man.
+3. Eat all dots while avoiding ghosts to win.
+4. Refresh the page to restart the game.
+
+**Dependencies:**
+- WebGL-enabled browser
+
+**Contributors:**
+- [222358416]Mfanafuthi Pomba
+
+**Acknowledgements:**
+- Inspired by the original Pac-Man game.
+- WebGL documentation and tutorials.
+
